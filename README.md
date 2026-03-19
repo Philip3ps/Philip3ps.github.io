@@ -1,18 +1,4 @@
 
-
-
-
-
-index.html
-File
-i want to add a readme page on github about my portfolio generate me the assets
-
-nice—your portfolio is already strong, so let’s turn it into a clean, high-impact github readme 🔥
-
-i’ll generate ready-to-copy assets based on your actual site 
-
- — including a polished README.md, badges, and sections you can reuse.
-
 🧩 1. MAIN README (copy-paste)
 <h1 align="center">Philip John Sigaton</h1>
 <h3 align="center">Graphic Designer • Freelancer • Creative Builder</h3>
