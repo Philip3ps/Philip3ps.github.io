@@ -1,5 +1,3 @@
-
-🧩 1. MAIN README (copy-paste)
 <h1 align="center">Philip John Sigaton</h1>
 <h3 align="center">Graphic Designer • Freelancer • Creative Builder</h3>
 
